@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/iplDashboardApp-ReactJs/static/css/main.07a258ce.chunk.css",
+    "main.js": "/iplDashboardApp-ReactJs/static/js/main.3315cdca.chunk.js",
+    "main.js.map": "/iplDashboardApp-ReactJs/static/js/main.3315cdca.chunk.js.map",
+    "runtime-main.js": "/iplDashboardApp-ReactJs/static/js/runtime-main.d9e081ee.js",
+    "runtime-main.js.map": "/iplDashboardApp-ReactJs/static/js/runtime-main.d9e081ee.js.map",
+    "static/js/2.35cb2a24.chunk.js": "/iplDashboardApp-ReactJs/static/js/2.35cb2a24.chunk.js",
+    "static/js/2.35cb2a24.chunk.js.map": "/iplDashboardApp-ReactJs/static/js/2.35cb2a24.chunk.js.map",
+    "index.html": "/iplDashboardApp-ReactJs/index.html",
+    "static/css/main.07a258ce.chunk.css.map": "/iplDashboardApp-ReactJs/static/css/main.07a258ce.chunk.css.map",
+    "static/js/2.35cb2a24.chunk.js.LICENSE.txt": "/iplDashboardApp-ReactJs/static/js/2.35cb2a24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9e081ee.js",
+    "static/js/2.35cb2a24.chunk.js",
+    "static/css/main.07a258ce.chunk.css",
+    "static/js/main.3315cdca.chunk.js"
+  ]
+}
