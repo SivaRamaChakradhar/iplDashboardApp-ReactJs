@@ -1,6 +1,6 @@
 {
   "name": "ipl-dashboard-app",
-  "homepage": "https://sivaramachakradhar.github.io/iplDashboardApp-ReactJs",
+  "homepage": "https://SivaRamaChakradhar.github.io/iplDashboardApp-ReactJs",
   "private": true,
   "version": "1.0.0",
   "engines": {
@@ -12,6 +12,7 @@
     "@testing-library/react": "11.2.5",
     "@testing-library/user-event": "12.6.2",
     "chalk": "4.1.0",
+    "gh-pages": "6.3.0",
     "history": "5.0.0",
     "msw": "0.28.2",
     "react": "17.0.1",
